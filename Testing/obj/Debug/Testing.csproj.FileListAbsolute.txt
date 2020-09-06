@@ -1,0 +1,14 @@
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\bin\Debug\Testing.dll
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\bin\Debug\Testing.pdb
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\bin\Debug\BusinessRulesEngine.exe
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\bin\Debug\BusinessRulesEngine.pdb
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\obj\Debug\Testing.dll
+c:\users\anand kumar\documents\visual studio 2010\Projects\BusinessRulesEngine\Testing\obj\Debug\Testing.pdb
+F:\Git\BusinessRulesEngine\Testing\bin\Debug\Testing.dll
+F:\Git\BusinessRulesEngine\Testing\bin\Debug\Testing.pdb
+F:\Git\BusinessRulesEngine\Testing\bin\Debug\BusinessRulesEngine.exe
+F:\Git\BusinessRulesEngine\Testing\bin\Debug\BusinessRulesEngine.pdb
+F:\Git\BusinessRulesEngine\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+F:\Git\BusinessRulesEngine\Testing\obj\Debug\Testing.dll
+F:\Git\BusinessRulesEngine\Testing\obj\Debug\Testing.pdb

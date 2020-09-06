@@ -1,0 +1,4 @@
+F:\Git\BusinessRulesEngine\BusinessRulesEngine\bin\Release\BusinessRulesEngine.exe
+F:\Git\BusinessRulesEngine\BusinessRulesEngine\bin\Release\BusinessRulesEngine.pdb
+F:\Git\BusinessRulesEngine\BusinessRulesEngine\obj\x86\Release\BusinessRulesEngine.exe
+F:\Git\BusinessRulesEngine\BusinessRulesEngine\obj\x86\Release\BusinessRulesEngine.pdb

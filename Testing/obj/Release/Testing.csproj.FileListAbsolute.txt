@@ -1,0 +1,7 @@
+F:\Git\BusinessRulesEngine\Testing\bin\Release\Testing.dll
+F:\Git\BusinessRulesEngine\Testing\bin\Release\Testing.pdb
+F:\Git\BusinessRulesEngine\Testing\bin\Release\BusinessRulesEngine.exe
+F:\Git\BusinessRulesEngine\Testing\bin\Release\BusinessRulesEngine.pdb
+F:\Git\BusinessRulesEngine\Testing\obj\Release\Testing.csprojResolveAssemblyReference.cache
+F:\Git\BusinessRulesEngine\Testing\obj\Release\Testing.dll
+F:\Git\BusinessRulesEngine\Testing\obj\Release\Testing.pdb

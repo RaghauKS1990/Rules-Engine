@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="28e389f8-9766-441d-a262-2d1a98b101cd" name="ANAND KUMAR@ANAND 2020-09-06 23:53:46" runUser="ANAND\ANAND KUMAR" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="1f2aa7bc-7b95-41db-9881-5ec5bd8672c0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ANAND KUMAR_ANAND 2020-09-06 23_53_46">
+      <DeploymentItem filename="F:\Git\BusinessRulesEngine\BusinessRulesEngine\bin\Debug\BusinessRulesEngine.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2020-09-06T23:53:46.8630076+05:30" queuing="2020-09-06T23:53:47.1828189+05:30" start="2020-09-06T23:53:47.2337865+05:30" finish="2020-09-06T23:53:47.9443763+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="15" executed="15" passed="15" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_UpgradeMembershipWithIEmailService" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="e7750adc-7fc5-9275-c995-03a9260f824d">
+      <Execution id="6d379599-f3fc-4244-aadb-a228335b2607" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_UpgradeMembershipWithIEmailService" />
+    </UnitTest>
+    <UnitTest name="Test_LearningToSki" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="bbae4757-24e3-ac8a-ef9d-8c7a3daf7ade">
+      <Execution id="fa743d17-a9e6-4466-8cc6-a0ffe58c36ed" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_LearningToSki" />
+    </UnitTest>
+    <UnitTest name="Test_Books" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="37b0daad-7437-a973-e211-dfbd62d8f5cd">
+      <Execution id="56819a76-7030-48fe-a646-a82f17226a0c" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Books" />
+    </UnitTest>
+    <UnitTest name="Test_UpgradeToMembership" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="f5b2575f-d854-93f7-4cc0-1b734ef8448f">
+      <Execution id="5d71a740-bc8f-49de-8bd6-1b651c47518a" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_UpgradeToMembership" />
+    </UnitTest>
+    <UnitTest name="Test_AgentCommissionNotificationPhysicalProducts" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="450f5400-b193-0c32-0f4f-8136c63a5ad4">
+      <Execution id="155971ff-8c70-41e1-915d-eb5e24920351" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_AgentCommissionNotificationPhysicalProducts" />
+    </UnitTest>
+    <UnitTest name="Test_PhysicalProductsAgentCommission" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="44fa59c1-75f7-a4ae-bc52-df0523616072">
+      <Execution id="3d17adc4-a5e1-475f-980d-5214442647fa" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_PhysicalProductsAgentCommission" />
+    </UnitTest>
+    <UnitTest name="Test_PhysicalProducts" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="9b3164c4-e112-5b1d-9f03-7fd22cdadc24">
+      <Execution id="5cd5c57c-481d-444d-a98c-678af78e9768" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_PhysicalProducts" />
+    </UnitTest>
+    <UnitTest name="Test_PhysicalProductsORBooksBooks" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="94fb44c9-0dfc-73cf-5add-dcd7180e7f66">
+      <Execution id="6f7f76b2-6538-467f-86c7-fca0e383ea02" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_PhysicalProductsORBooksBooks" />
+    </UnitTest>
+    <UnitTest name="Test_BooksAgentCommission" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="776d0476-faf3-6a0f-4aa5-7ff506dc087a">
+      <Execution id="ab94fc49-e771-4cd3-99da-3c4ec2b4e16c" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_BooksAgentCommission" />
+    </UnitTest>
+    <UnitTest name="Test_MembershipORUpgradeWithEmailNotificationUpgradeMembership" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="5f96d868-2de3-f8ed-7c89-7a7a5f3d39da">
+      <Execution id="996e33d5-b55c-4235-bbce-a0c52d3739aa" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_MembershipORUpgradeWithEmailNotificationUpgradeMembership" />
+    </UnitTest>
+    <UnitTest name="Test_MembershipWithIEmailService" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="e23292e4-d88d-76f9-564a-dee8ef777afa">
+      <Execution id="29ab1a35-1b4d-4048-8bc4-ad09bc85bcb7" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_MembershipWithIEmailService" />
+    </UnitTest>
+    <UnitTest name="Test_AgentCommissionNotificationBooks" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="47195eba-e9fe-e718-bebc-bd7a276560ca">
+      <Execution id="ded8ac80-418a-4d4a-80b9-0c7e2b0732ad" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_AgentCommissionNotificationBooks" />
+    </UnitTest>
+    <UnitTest name="Test_MembershipORUpgradeWithEmailNotificationMembership" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="42c6b83d-a658-7721-29e7-6dc767fac5fc">
+      <Execution id="9ffb4df5-7d79-491d-aeb7-88aa0771445a" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_MembershipORUpgradeWithEmailNotificationMembership" />
+    </UnitTest>
+    <UnitTest name="Test_PhysicalProductsORBooksPhysicalProducts" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="a876a4e3-0c89-b8e5-8cda-6b319845eed8">
+      <Execution id="fdb7e354-1629-4a26-88ed-091b4c75560e" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_PhysicalProductsORBooksPhysicalProducts" />
+    </UnitTest>
+    <UnitTest name="Test_Membership" storage="f:\git\businessrulesengine\testing\bin\debug\testing.dll" id="2983082b-5091-873c-3c88-9636977b3f8f">
+      <Execution id="9bfaa760-c828-47ba-aa0f-bf9a74a8135e" />
+      <TestMethod codeBase="F:/Git/BusinessRulesEngine/Testing/bin/Debug/Testing.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Testing.UnitTest1, Testing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_Membership" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2983082b-5091-873c-3c88-9636977b3f8f" executionId="9bfaa760-c828-47ba-aa0f-bf9a74a8135e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37b0daad-7437-a973-e211-dfbd62d8f5cd" executionId="56819a76-7030-48fe-a646-a82f17226a0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="42c6b83d-a658-7721-29e7-6dc767fac5fc" executionId="9ffb4df5-7d79-491d-aeb7-88aa0771445a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="44fa59c1-75f7-a4ae-bc52-df0523616072" executionId="3d17adc4-a5e1-475f-980d-5214442647fa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="450f5400-b193-0c32-0f4f-8136c63a5ad4" executionId="155971ff-8c70-41e1-915d-eb5e24920351" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47195eba-e9fe-e718-bebc-bd7a276560ca" executionId="ded8ac80-418a-4d4a-80b9-0c7e2b0732ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5f96d868-2de3-f8ed-7c89-7a7a5f3d39da" executionId="996e33d5-b55c-4235-bbce-a0c52d3739aa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="776d0476-faf3-6a0f-4aa5-7ff506dc087a" executionId="ab94fc49-e771-4cd3-99da-3c4ec2b4e16c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94fb44c9-0dfc-73cf-5add-dcd7180e7f66" executionId="6f7f76b2-6538-467f-86c7-fca0e383ea02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b3164c4-e112-5b1d-9f03-7fd22cdadc24" executionId="5cd5c57c-481d-444d-a98c-678af78e9768" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a876a4e3-0c89-b8e5-8cda-6b319845eed8" executionId="fdb7e354-1629-4a26-88ed-091b4c75560e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbae4757-24e3-ac8a-ef9d-8c7a3daf7ade" executionId="fa743d17-a9e6-4466-8cc6-a0ffe58c36ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e23292e4-d88d-76f9-564a-dee8ef777afa" executionId="29ab1a35-1b4d-4048-8bc4-ad09bc85bcb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7750adc-7fc5-9275-c995-03a9260f824d" executionId="6d379599-f3fc-4244-aadb-a228335b2607" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f5b2575f-d854-93f7-4cc0-1b734ef8448f" executionId="5d71a740-bc8f-49de-8bd6-1b651c47518a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9bfaa760-c828-47ba-aa0f-bf9a74a8135e" testId="2983082b-5091-873c-3c88-9636977b3f8f" testName="Test_Membership" computerName="ANAND" duration="00:00:00.0442108" startTime="2020-09-06T23:53:47.2387819+05:30" endTime="2020-09-06T23:53:47.8224679+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9bfaa760-c828-47ba-aa0f-bf9a74a8135e">
+    </UnitTestResult>
+    <UnitTestResult executionId="56819a76-7030-48fe-a646-a82f17226a0c" testId="37b0daad-7437-a973-e211-dfbd62d8f5cd" testName="Test_Books" computerName="ANAND" duration="00:00:00.0004952" startTime="2020-09-06T23:53:47.8244468+05:30" endTime="2020-09-06T23:53:47.8294468+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="56819a76-7030-48fe-a646-a82f17226a0c">
+    </UnitTestResult>
+    <UnitTestResult executionId="9ffb4df5-7d79-491d-aeb7-88aa0771445a" testId="42c6b83d-a658-7721-29e7-6dc767fac5fc" testName="Test_MembershipORUpgradeWithEmailNotificationMembership" computerName="ANAND" duration="00:00:00.0005035" startTime="2020-09-06T23:53:47.8314418+05:30" endTime="2020-09-06T23:53:47.8364576+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9ffb4df5-7d79-491d-aeb7-88aa0771445a">
+    </UnitTestResult>
+    <UnitTestResult executionId="3d17adc4-a5e1-475f-980d-5214442647fa" testId="44fa59c1-75f7-a4ae-bc52-df0523616072" testName="Test_PhysicalProductsAgentCommission" computerName="ANAND" duration="00:00:00.0004902" startTime="2020-09-06T23:53:47.8374415+05:30" endTime="2020-09-06T23:53:47.8414549+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3d17adc4-a5e1-475f-980d-5214442647fa">
+    </UnitTestResult>
+    <UnitTestResult executionId="155971ff-8c70-41e1-915d-eb5e24920351" testId="450f5400-b193-0c32-0f4f-8136c63a5ad4" testName="Test_AgentCommissionNotificationPhysicalProducts" computerName="ANAND" duration="00:00:00.0004503" startTime="2020-09-06T23:53:47.8434386+05:30" endTime="2020-09-06T23:53:47.8474512+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="155971ff-8c70-41e1-915d-eb5e24920351">
+    </UnitTestResult>
+    <UnitTestResult executionId="ded8ac80-418a-4d4a-80b9-0c7e2b0732ad" testId="47195eba-e9fe-e718-bebc-bd7a276560ca" testName="Test_AgentCommissionNotificationBooks" computerName="ANAND" duration="00:00:00.0003150" startTime="2020-09-06T23:53:47.8494317+05:30" endTime="2020-09-06T23:53:47.8534481+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ded8ac80-418a-4d4a-80b9-0c7e2b0732ad">
+    </UnitTestResult>
+    <UnitTestResult executionId="996e33d5-b55c-4235-bbce-a0c52d3739aa" testId="5f96d868-2de3-f8ed-7c89-7a7a5f3d39da" testName="Test_MembershipORUpgradeWithEmailNotificationUpgradeMembership" computerName="ANAND" duration="00:00:00.0004817" startTime="2020-09-06T23:53:47.8544319+05:30" endTime="2020-09-06T23:53:47.8594445+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="996e33d5-b55c-4235-bbce-a0c52d3739aa">
+    </UnitTestResult>
+    <UnitTestResult executionId="ab94fc49-e771-4cd3-99da-3c4ec2b4e16c" testId="776d0476-faf3-6a0f-4aa5-7ff506dc087a" testName="Test_BooksAgentCommission" computerName="ANAND" duration="00:00:00.0002147" startTime="2020-09-06T23:53:47.8614242+05:30" endTime="2020-09-06T23:53:47.8644417+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ab94fc49-e771-4cd3-99da-3c4ec2b4e16c">
+    </UnitTestResult>
+    <UnitTestResult executionId="6f7f76b2-6538-467f-86c7-fca0e383ea02" testId="94fb44c9-0dfc-73cf-5add-dcd7180e7f66" testName="Test_PhysicalProductsORBooksBooks" computerName="ANAND" duration="00:00:00.0002153" startTime="2020-09-06T23:53:47.8664223+05:30" endTime="2020-09-06T23:53:47.8694390+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f7f76b2-6538-467f-86c7-fca0e383ea02">
+    </UnitTestResult>
+    <UnitTestResult executionId="5cd5c57c-481d-444d-a98c-678af78e9768" testId="9b3164c4-e112-5b1d-9f03-7fd22cdadc24" testName="Test_PhysicalProducts" computerName="ANAND" duration="00:00:00.0002873" startTime="2020-09-06T23:53:47.8714182+05:30" endTime="2020-09-06T23:53:47.8754354+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5cd5c57c-481d-444d-a98c-678af78e9768">
+    </UnitTestResult>
+    <UnitTestResult executionId="fdb7e354-1629-4a26-88ed-091b4c75560e" testId="a876a4e3-0c89-b8e5-8cda-6b319845eed8" testName="Test_PhysicalProductsORBooksPhysicalProducts" computerName="ANAND" duration="00:00:00.0002380" startTime="2020-09-06T23:53:47.8764188+05:30" endTime="2020-09-06T23:53:47.8804325+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdb7e354-1629-4a26-88ed-091b4c75560e">
+    </UnitTestResult>
+    <UnitTestResult executionId="fa743d17-a9e6-4466-8cc6-a0ffe58c36ed" testId="bbae4757-24e3-ac8a-ef9d-8c7a3daf7ade" testName="Test_LearningToSki" computerName="ANAND" duration="00:00:00.0004396" startTime="2020-09-06T23:53:47.8824121+05:30" endTime="2020-09-06T23:53:47.8864290+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fa743d17-a9e6-4466-8cc6-a0ffe58c36ed">
+    </UnitTestResult>
+    <UnitTestResult executionId="29ab1a35-1b4d-4048-8bc4-ad09bc85bcb7" testId="e23292e4-d88d-76f9-564a-dee8ef777afa" testName="Test_MembershipWithIEmailService" computerName="ANAND" duration="00:00:00.0003167" startTime="2020-09-06T23:53:47.8874097+05:30" endTime="2020-09-06T23:53:47.8914069+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="29ab1a35-1b4d-4048-8bc4-ad09bc85bcb7">
+    </UnitTestResult>
+    <UnitTestResult executionId="6d379599-f3fc-4244-aadb-a228335b2607" testId="e7750adc-7fc5-9275-c995-03a9260f824d" testName="Test_UpgradeMembershipWithIEmailService" computerName="ANAND" duration="00:00:00.0002901" startTime="2020-09-06T23:53:47.8974032+05:30" endTime="2020-09-06T23:53:47.9043996+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6d379599-f3fc-4244-aadb-a228335b2607">
+    </UnitTestResult>
+    <UnitTestResult executionId="5d71a740-bc8f-49de-8bd6-1b651c47518a" testId="f5b2575f-d854-93f7-4cc0-1b734ef8448f" testName="Test_UpgradeToMembership" computerName="ANAND" duration="00:00:00.0003956" startTime="2020-09-06T23:53:47.9073979+05:30" endTime="2020-09-06T23:53:47.9133943+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d71a740-bc8f-49de-8bd6-1b651c47518a">
+    </UnitTestResult>
+  </Results>
+</TestRun>
